@@ -1,0 +1,38 @@
+.firstpage {
+    display: flex;
+    flex-direction: column;
+}
+
+.firstpage__slider {
+    margin: auto;
+    width: 700px;
+    height: 400px;
+    background-color: blue;
+    position: relative;
+}
+
+.firstpage__slider-img {
+    width: 100%;
+    max-height: 400px;
+}
+
+.firstpage__slider-title {
+    position: absolute;
+    bottom: 30px;
+    left: 10px;
+}
+
+.firstpage__container {
+    margin: auto;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.firstpage__button {
+    width: 100px;
+
+}

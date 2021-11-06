@@ -1,0 +1,5 @@
+@import url('./vendor/normalize.css');
+@import url('./Component/Header/Header.css');
+@import url('./Component/Users/Users.css');
+@import url('./Component/Posts/Posts.css');
+@import url('./Component/FirstPage/FirstPage.css');
